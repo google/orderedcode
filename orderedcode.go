@@ -124,7 +124,7 @@ decode, wrap the item pointer in an orderedcode.Decr. For example:
 Each item's ordering is independent from other items, but the same ordering
 should be used to encode and decode the i'th item.
 */
-package orderedcode
+package orderedcode // import "github.com/google/orderedcode"
 
 import (
 	"errors"
