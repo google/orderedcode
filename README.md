@@ -1,5 +1,7 @@
 # orderedcode
 
+[![GoDoc](https://godoc.org/github.com/google/orderedcode?status.svg)](https://godoc.org/github.com/google/orderedcode)
+
 orderedcode provides a byte encoding of a sequence of typed items.
 The resulting bytes can be lexicographically compared to yield the same
 ordering as item-wise comparison on the original sequences.
